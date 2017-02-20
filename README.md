@@ -1,3 +1,1 @@
-# Double Chin
-
-Discord bot written in discord.py.
+![double-chin](https://cdn.discordapp.com/attachments/239804182943629312/258840527842050049/OMCiv2b.png)
